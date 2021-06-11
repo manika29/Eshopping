@@ -1,0 +1,5 @@
+1 Product1 101 1000 8
+2 Product2 102 1600 15
+3 Product3 103 500 5
+4 Product4 104 400 5
+5 Product5 105 1450 12
